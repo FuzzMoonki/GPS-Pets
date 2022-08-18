@@ -1,11 +1,4 @@
-# Pet-Social
-
-## Title:
-
-
-## Description
-
-
+# GPS-PETS
 
 Technologies Used:
 * CSS
@@ -15,6 +8,6 @@ Technologies Used:
 * Express.JS
 
 Link to deployed application:
-https://jaysmith13.github.io/Pet-Social/
+
 
 ## Screenshot:
