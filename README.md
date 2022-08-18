@@ -7,7 +7,6 @@ Technologies Used:
 * Node.JS
 * Express.JS
 
-Link to deployed application:
-
 
 ## Screenshot:
+![homepage](https://user-images.githubusercontent.com/100806534/185284961-cc554f06-eb0e-4809-a222-eaf656f14d55.PNG)
